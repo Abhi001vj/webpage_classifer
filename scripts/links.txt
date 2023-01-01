@@ -1,3 +1,11 @@
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html#sklearn.model_selection.GroupKFold
 https://towardsdatascience.com/stratified-splitting-of-grouped-datasets-using-optimization-bdc12fb6e691
 https://sabrinas.space/
+https://public.roboflow.com/object-detection/website-screenshots/
+https://www.kaggle.com/datasets/aydosphd/webscreenshots
+https://www.circl.lu/opendata/circl-ail-dataset-01/
+https://www.urlbox.io/automated-screenshots/classify-website-screenshots-with-ai
+https://paperswithcode.com/dataset/cova
+https://www.urlbox.io/automated-screenshots/classify-website-screenshots-with-ai
+https://www.urlbox.io/
+https://github.com/kevalmorabia97/cova-web-object-detection
