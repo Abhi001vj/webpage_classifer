@@ -27,6 +27,7 @@ Run the [data_process_and_train.ipynb notebook](notebooks\data_process_and_train
 
 ## Helpful resources
 - https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
+- https://towardsdatascience.com/creating-benchmark-models-the-scikit-learn-way-af227f6ea977
 - https://www.kaggle.com/code/abhishek/approaching-almost-any-nlp-problem-on-kaggle/notebook
 - https://www.kaggle.com/code/vonneumann/benchmarking-sklearn-classifiers/notebook
 - https://www.kdnuggets.com/2018/07/overview-benchmark-deep-learning-models-text-classification.html
