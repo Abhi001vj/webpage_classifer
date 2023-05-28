@@ -5,7 +5,10 @@ __pycache__/
 **data**/
 # C extensions
 *.so
-
+**mlruns**
+**wandb**
+**runs**
+**checkpoint**
 # Distribution / packaging
 .Python
 build/
